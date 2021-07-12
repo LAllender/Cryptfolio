@@ -1,4 +1,4 @@
-# Ctyptfolio
+# Cryptfolio
 
 # Group Project - API
 
