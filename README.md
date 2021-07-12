@@ -55,7 +55,7 @@ As a user I want to be able to update and adjust my portfolio to keep up with ch
 
 
 ## <h2 style="text-align:center" id="installation">Installation</h2> 
-This project can be viewed at [Cryptfolio](https://lallender.github.io/Ctyptfolio/)
+This project can be viewed at [Cryptfolio](https://lallender.github.io/Cryptfolio/)
 
 
 ## <h2 style="text-align:center" id="credits"> Credits</h2>
